@@ -1,0 +1,12 @@
+{
+  "DB_CONFIG": {
+    "host": "127.0.0.1",
+    "port": "3306",
+    "password": "14171417",
+    "username": "root",
+    "baseName": "aero",
+    "dialect": "mysql"
+  },
+  "JWT_SECRET": "very secret string",
+  "JWT_REFRESH_SECRET": "very secret refresh string"
+}
