@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VaskoDeGama/rest-api-erp.aero.git"
+    "url": ""
   },
   "keywords": [
     "express",
@@ -17,12 +17,12 @@
     "rest",
     "api"
   ],
-  "author": "VaskaDeGama (karmenyuk@yandex.ru)",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/VaskoDeGama/rest-api-erp.aero/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/VaskoDeGama/rest-api-erp.aero#readme",
+  "homepage": "",
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
